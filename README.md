@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SankalpSahil07
-- 👀 I’m interested in Web Application Developer, Android App Development
+- 👀 I’m interested in Web Application Development, Android App Development
 - 🌱 I’m currently working as Java Developer
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me sankalp.sahil2017@gmail.com
