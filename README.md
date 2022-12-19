@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SankalpSahil07
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Java, Kotlin, Android SDK
+- 👀 I’m interested in Web Application Developer, Android App Development
+- 🌱 I’m currently working as Java Developer
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me sankalp.sahil2017@gmail.com
 
